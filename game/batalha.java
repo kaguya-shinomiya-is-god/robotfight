@@ -18,6 +18,7 @@ public class batalha {
         System.out.println("Aperte ENTER para prosseguir:");
         useless = input.nextLine();
         atacar(robo2.ataque,robo1.durabilidade);
+        System.out.println("Aperte ENTER para prosseguir:");
         useless = input.nextLine();
 
         // Verificação da durabilidade

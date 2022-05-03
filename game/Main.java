@@ -40,7 +40,7 @@ public class Main{
 
         //Inicialização da batalha
 
-        batalha.battle(robo1,robo2);
+        Batalha.battle(robo1,robo2);
 
     }
     

@@ -46,8 +46,9 @@ public class batalha {
 
     //Metodo de ataque
     public static void atacar(int a,int b){
-        boolean sucess = true;
-
+        boolean sucess = false;
+        rand(sucess);
+        
         if(sucess == false){
             System.out.println("Ataque falhou!");
         }else if(sucess == true){

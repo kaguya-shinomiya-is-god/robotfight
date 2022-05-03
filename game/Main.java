@@ -31,7 +31,6 @@ public class Main{
 
         System.out.println("Escolha o nome do seu segundo robo: ");
         robo2.modelo = input.nextLine();
-        robo2.modelo = input.nextLine();
         System.out.println("Escolha o ataque de seu robo (em números!): ");
         robo2.ataque = input.nextInt();
         System.out.println("Escolha a durabilidade de seu robo (em números!): ");
